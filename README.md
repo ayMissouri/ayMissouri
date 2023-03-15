@@ -17,3 +17,7 @@
 ### GitHub Stats ⚡
 
 <img align="left" alt="ayMissouri's GitHub Stats" src="https://github-readme-stats-aymissouri.vercel.app//api?username=ayMissouri&count_private=true&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+### Music I am listening to: 🎶
+
+[![Spotify](https://spotify-playback-aymissouri.vercel.app/api/spotify)](https://amissouri.com)
