@@ -20,4 +20,4 @@
 
 ### Music I am listening to: 🎶
 
-[![Spotify](https://spotify-playback-aymissouri.vercel.app/api/spotify)](https://amissouri.com)
+[![Spotify](https://spotify-playback-git-master-aymissouri.vercel.app/api/spotify)](https://amissouri.com)
