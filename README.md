@@ -2,7 +2,7 @@
 
 ### About me: 👀
 
-- 🔭 I'm currently working on my portfolio
+- 🔭 I'm currently working on projects for my portfolio
 - 🌱 Currently learning C# alongside some other languages
 - 🤓 I love playing games, watching movies/tv shows and listening to music!
 
