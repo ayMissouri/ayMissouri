@@ -3,7 +3,7 @@
 ### About me: 👀
 
 - 🔭 I'm currently working on projects for my portfolio
-- 🌱 Currently learning C++ & Unreal Engine 5
+- 🌱 Currently mastering Swift and SwiftUI
 - 🤓 I love playing games, watching movies/tv shows and listening to music!
 
 ### Connect with me: 🤝
