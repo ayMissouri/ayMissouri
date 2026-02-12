@@ -3,7 +3,7 @@
 ### About me: 👀
 
 - 🔭 I'm currently working on projects for my portfolio
-- 🌱 Currently mastering Swift and SwiftUI
+- 🌱 Currently working on my knowledge of C#
 - 🤓 I love playing games, watching movies/tv shows and listening to music!
 
 ### Connect with me: 🤝
